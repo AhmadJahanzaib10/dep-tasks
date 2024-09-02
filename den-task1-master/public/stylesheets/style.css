@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.editBtn, .delBtn{
+    cursor: pointer;
+    font-size: 18px;
+}
+.editBtn{
+    color: blue;
+}
+.delBtn{
+    color: red;
+}
